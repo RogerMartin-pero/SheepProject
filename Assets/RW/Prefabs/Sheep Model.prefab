@@ -80,6 +80,9 @@ MonoBehaviour:
   gotHayDestroyDelay: 1
   dropDestroyDelay: 4
   audio: {fileID: 5333494075632316718}
+  heartOffset: 4
+  heartPrefab: {fileID: 8562087849373413192, guid: 5c4dc6f0b30955843903f046b1bbc6c5,
+    type: 3}
 --- !u!82 &5333494075632316718
 AudioSource:
   m_ObjectHideFlags: 0
